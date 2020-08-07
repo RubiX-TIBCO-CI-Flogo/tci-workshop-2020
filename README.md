@@ -3,7 +3,7 @@ A workshop that covers the basic concepts of the TIBCO Cloud Integration (TCI) p
 
 # Workshop details
 
-## Agenda
+## Agenda for 16th September 2020
 
 1. Introductie en algemene visie iPaaS/HIP door Rubix - 10m
 2. Visie TIBCO betreft iPaaS, HIP en de pillars. Focus op intro naar de workshop - 5m 
