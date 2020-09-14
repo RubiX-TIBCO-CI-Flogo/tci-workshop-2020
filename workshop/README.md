@@ -10,7 +10,7 @@
     2. Create a Mock App
     3. Import API Specs
 3. [Build and Deploy Your API](doc/002.md)
-    1. BusinessWorks Apps in TIBCO Cloud Integration
+    1. BusinessWorks Apps in TIBCO Cloud Integration (demo)
        1. Connect Business Studio to TIBCO Cloud
        2. Import a Project in to Business Studio
        3. Push the Project to TIBCO Cloud and Test It
