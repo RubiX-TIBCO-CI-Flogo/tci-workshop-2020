@@ -3,7 +3,7 @@
 **Note**: Before you start the labs, download the repo (**Clone or download** > **Download ZIP**), and unzip it to a local directory.
 
 1. [Validate Your Environment](doc/000.md)
-    1. Sign in to Your AWS Instance
+    1. Download and install Postman
     2. Sign in to TIBCO Cloud
 2. [Design an API and Create a Mock Application](doc/001.md)
     1. Design an API
@@ -19,7 +19,7 @@
        2. Implement the Flogo App
        3. Push the Flogo App to TIBCO Cloud and Test It
 4. [Distribute & Manage your API](doc/003.md)
-    1. Publish your API to Mashery
+    1. Publish your API via Mashery
     2. Configure the API Definitions & API Packages
     3. Register an Application for an API Key
     4. Test the API using Postman
